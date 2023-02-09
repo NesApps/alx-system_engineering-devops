@@ -1,2 +1,2 @@
-4-listmorefiles
-ls -la
+#!/bin/bash
+ls -a
